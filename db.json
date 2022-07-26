@@ -1,0 +1,56 @@
+{
+  "todolist": [
+    {
+      "id": "sCyJBG3",
+      "task": "Go to College",
+      "date": "2022-04-10",
+      "priority": "Medium",
+      "status": true
+    },
+    {
+      "id": "AwJnscz",
+      "task": "Assignment 2 CC",
+      "date": "2022-07-27",
+      "priority": "High",
+      "status": true
+    },
+    {
+      "id": "1SjiwoS",
+      "task": "Meet friends in clg",
+      "date": "2022-07-30",
+      "priority": "High",
+      "status": false,
+      "username": "admin"
+    },
+    {
+      "task": "testing the user addition",
+      "date": "2022-07-27",
+      "priority": "High",
+      "status": true,
+      "username": "admin",
+      "id": "I5Q3xoO"
+    },
+    {
+      "id": "zK7Dtnh",
+      "task": "Go to angular class",
+      "date": "2022-07-26",
+      "priority": "Medium",
+      "status": true,
+      "username": "admin"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@xyz.com",
+      "password": "admin"
+    },
+    {
+      "username": "gkulkarni76008",
+      "email": "gkulk007@gmail.com",
+      "password": "12er1244jj",
+      "id": "C_3m0L_"
+    }
+  ]
+}
